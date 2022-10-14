@@ -4,24 +4,27 @@ body {
   background-repeat: no-repeat;
   background-position: 100% 0;
 }
-
 img {
   max-width: 100%;
 }
 
 .volkhov {
-  font-family: 'Volkhov', serif;
+  font-family: 'volkhov', serif;
 }
-.color-orange {
-  color: #df6951;
+
+.color-orange{
+  color: #DF6951;
 }
-.color-yallow {
-  color: #F1A501;
+
+#hero-button{
+  color: white;
 }
-.color-blue{
-: #5e6282;
+
+.color-blue {
+  color: #5E6282;
 }
-.tagLine{
-  font-size:1.5rem;
+
+.tagline {
+  font-size: 1.5rem;
   text-transform: uppercase;
 }
