@@ -12,3 +12,12 @@ img {
 .volkhov {
   font-family: 'Volkhov', serif;
 }
+
+.color-orange{
+  color: #DF6951;
+}
+
+.tagline{
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}

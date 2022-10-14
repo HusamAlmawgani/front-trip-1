@@ -1,7 +1,14 @@
-/* col {
-    background-image: url(../src/assets/images/traveller.png);
-    background-size: 40%;
-    background-repeat: no-repeat;
-    background-position: 100% 0;
-  }
-   */
+
+.hero-title{
+    font-size: 4rem;
+}
+.color-blue{
+    color: 5E6282;
+}
+.btn-yellow{
+    color:white;
+    background-color: #F1A501;
+}
+#hero-button{
+    color: white;
+}
