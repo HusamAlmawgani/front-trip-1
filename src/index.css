@@ -5,7 +5,10 @@ body {
   background-position: 100% 0;
 }
 
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
+img {
+  max-width: 100%;
+}
+
+.volkhov {
+  font-family: 'Volkhov', serif;
+}
